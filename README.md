@@ -9,8 +9,8 @@
 
 | Project | Description | Tech Stack | Status | Repository |
 |--------|-------------|------------|--------|------------|
-| Todo App | A fully functional todo list app with add/delete functionality. Backend integration coming soon. | React, useState, useEffect | 🟡 Frontend Done | [GitHub Repo](https://github.com/Pr75502/todo-app) |
-| Theme Switcher | A dynamic theme switcher using React Context API and useState. Supports multi-theme toggle. | React, Context API, CSS | 🟢 Completed | [GitHub Repo](https://github.com/Pr75502/Theme-Switcher) |
+| Todo App | A fully functional todo list app with add/delete functionality. Backend integration coming soon. | React, useState, useEffect, useSelector, useDispatch, Redux,localStorage,Tailwind Css | 🟡 Frontend Done | [GitHub Repo](https://github.com/Pr75502/todo-app) |
+| Theme Switcher | A dynamic theme switcher using React Context API and useState. Supports multi-theme toggle. | React, Context API, TailwindCSS | 🟢 Completed | [GitHub Repo](https://github.com/Pr75502/Theme-Switcher) |
 | Shopping Cart | Add/remove items and quantity updates using React Context API. Backend/cart persistence to be added. | React, Context API, useReducer | 🟡 Frontend Done | [GitHub Repo](https://github.com/Pr75502/shopping_cart) |
 
 ---
